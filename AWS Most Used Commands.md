@@ -413,6 +413,5 @@ aws ce get-cost-forecast \
 
 ---
 
-## 📄 License
-This handbook is released under the [MIT License](https://opensource.org/licenses/MIT) — free to use, copy, and share.
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](https://www.apache.org/licenses/LICENSE-2.0)
 
