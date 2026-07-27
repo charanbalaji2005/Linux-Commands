@@ -47,7 +47,16 @@
 
 > 💡 **Pro-Tip:** Always double-check path references when running `rm -rf` to prevent accidental deletion of critical system files!
 
----
+
+<div align="left">
+  <img src="images/ByteBot.png" width="150" justify-content ="left" alt="ByteBot">
+  <br>
+  <b>🤖 ByteBot</b>
+  <br>
+  <sub>Linux & Terminal Guide</sub>
+</div>
+
+
 
 ## 2. File Inspection & Editing
 
@@ -102,7 +111,14 @@ vim /etc/nginx.conf    # Advanced modal editor
 | `id` | Show UID, GID, and group memberships | `id devuser` |
 | `su` | Switch to another user session | `su - devuser` |
 
----
+<div align="left">
+  <img src="./images/CodeBot.png" width="150" alt="CodeBot">
+  <br>
+  <b>👨‍💻 CodeBot</b>
+  <br>
+  <sub>Programming & Development Assistant</sub>
+</div>
+
 
 ## 4. Process & System Monitoring
 
@@ -166,7 +182,15 @@ sudo umount /mnt/data
 iostat -x 2
 ```
 
----
+
+<div align="left">
+  <img src="./images/FlameBot.png" width="220" alt="FlameBot">
+  <br>
+  <b>🔥 FlameBot</b>
+  <br>
+  <sub>Build, CI/CD & Deployment Expert</sub>
+</div>
+
 
 ## 6. Package Management
 
@@ -191,7 +215,15 @@ sudo snap install code --classic
 flatpak install flathub org.videolan.VLC
 ```
 
----
+<div align="left">
+  <img src="images/ShadowBot.png" width="150" alt="ShadowBot">
+  <br>
+  <b>🕵️ ShadowBot</b>
+  <br>
+  <sub>Cybersecurity & Networking Expert</sub>
+</div>
+
+
 
 ## 7. Advanced Networking & Firewalls
 
@@ -234,7 +266,15 @@ sudo firewall-cmd --reload
 sudo iptables -A INPUT -p tcp --dport 443 -j ACCEPT
 ```
 
----
+<div align="left">
+  <img src="images/AquaBot.png" width="150" alt="AquaBot">
+  <br>
+  <b>💧 AquaBot</b>
+  <br>
+  <sub>Debugging & Learning Assistant</sub>
+</div>
+
+
 
 ## 8. Text Processing & Regex Mastery
 
@@ -386,7 +426,15 @@ echo "alias ll='ls -la'" >> ~/.bashrc
 echo $SHELL
 ```
 
----
+
+<div align="left">
+  <img src="images/NovaBot.png" width="150" alt="NovaBot">
+  <br>
+  <b>🤖 NovaBot</b>
+  <br>
+  <sub>Docker & Kubernetes Specialist</sub>
+</div>
+
 
 ## 13. DevOps Docker & Kubernetes Essentials
 
