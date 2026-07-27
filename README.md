@@ -1,3 +1,6 @@
+<img width="2000" height="700" alt="image" src="https://github.com/user-attachments/assets/8b51052d-98fb-46c8-8216-b5d6743d0fa5" />
+
+
 # 🐧 The Complete Linux Command Line Handbook
 
 [![Linux](https://img.shields.io/badge/Linux-SCC?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
