@@ -184,7 +184,7 @@ iostat -x 2
 
 
 <div align="left">
-  <img src="./images/FlameBot.png" width="220" alt="FlameBot">
+  <img src="./images/FlameBot.png" width="150" alt="FlameBot">
   <br>
   <b>🔥 FlameBot</b>
   <br>
